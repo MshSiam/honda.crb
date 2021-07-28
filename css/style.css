@@ -6,3 +6,8 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+
+.grayscale{
+    filter: grayscale(100%);
+}
