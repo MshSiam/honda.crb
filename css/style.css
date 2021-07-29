@@ -28,3 +28,20 @@ ul li{
     border-radius: 100%;
 
 }
+
+
+
+/* overridden Colors */
+
+.bg-color-1{
+    background-color: #6A1B4D;
+}
+
+
+.text-color-1{
+    color: #6A1B4D;
+}
+
+.need-fix{
+    border: 1px solid #6A1B4D;
+}
