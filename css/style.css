@@ -11,3 +11,20 @@ body{
 .grayscale{
     filter: grayscale(100%);
 }
+
+ul li{
+    list-style-type: none;
+}
+
+.tstimg{
+    width: 149px;
+    height: auto;
+
+}
+
+.tstimg.tsimg-ex{
+    width: 160px;
+    height: 149px;
+    border-radius: 100%;
+
+}
